@@ -1,1 +1,1 @@
-# AutoTF-for-renewable-energy-generation-forecasting
+# renewable-energy-generation-forecasting
